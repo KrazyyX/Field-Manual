@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "Courier New"
+  "monospaceFontFamily": "Courier New",
+  "cssTheme": "Atom"
 }

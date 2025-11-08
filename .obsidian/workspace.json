@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "III. Exploitation/Web Exploitation/XXE.md",
+                "file": "II. Pre-Exploitation/Reverse Shells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XXE"
+              "title": "Reverse Shells"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8ff3ba706e9aecc0",
@@ -172,6 +173,8 @@
   },
   "active": "3fdbde5d62191ac8",
   "lastOpenFiles": [
+    "II. Pre-Exploitation/Web Shells.md",
+    "III. Exploitation/Web Exploitation/XXE.md",
     "III. Exploitation/Web Exploitation/IDOR.md",
     "III. Exploitation/Web Exploitation/HTTP Verb Tampering.md",
     "III. Exploitation/Web Exploitation/Common WebApp Exploitation/Joomla Exploitation.md",
@@ -181,13 +184,11 @@
     "III. Exploitation/Web Exploitation/Server Side Includes (SSI).md",
     "III. Exploitation/Web Exploitation/SSTI.md",
     "III. Exploitation/Web Exploitation/XLST Injection.md",
-    "III. Exploitation/Web Exploitation/XXE.md",
     "I. Enumeration/Web Enumeration/Common WebApps/Splunk.md",
     "II. Pre-Exploitation/Reverse Shells.md",
     "I. Enumeration/Web Enumeration/Common WebApps/Drupal Enumeration.md",
     "I. Enumeration/Web Enumeration/Common WebApps/WordPress Enumeration.md",
     "I. Enumeration/Web Enumeration/Common WebApps/Joomla Enumeration.md",
-    "II. Pre-Exploitation/Web Shells.md",
     "I. Enumeration/Service Enumeration/Tools/Nmap.md",
     "VI. Procedures/Linux Privilege Escalation.md",
     "I. Enumeration/Web Enumeration/Web Server Enumeration.md",

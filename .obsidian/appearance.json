@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Courier New",
-  "cssTheme": "Atom"
+  "cssTheme": "Atom",
+  "baseFontSize": 16
 }

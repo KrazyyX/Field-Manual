@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd4c44f146a7e77b",
+        "id": "446db671d9412461",
         "type": "tabs",
         "children": [
           {
-            "id": "00b63ef17116edf7",
+            "id": "3fdbde5d62191ac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I. Enumeration/Web Enumeration/Directory & Page Fuzzing.md",
+                "file": "III. Exploitation/Web Exploitation/XXE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directory & Page Fuzzing"
+              "title": "XXE"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,23 +170,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00b63ef17116edf7",
+  "active": "3fdbde5d62191ac8",
   "lastOpenFiles": [
-    "I. Enumeration/Web Enumeration/Parameter & Value Fuzzing.md",
-    "I. Enumeration/Web Enumeration/Subdomain & Vhost Fuzzing.md",
-    "I. Enumeration/Web Enumeration/Directory & Page Fuzzing.md",
-    "Untitled",
-    "I. Enumeration/Test I.md",
-    "I. Enumeration/Web Enumeration",
+    "III. Exploitation/Web Exploitation/IDOR.md",
+    "III. Exploitation/Web Exploitation/HTTP Verb Tampering.md",
+    "III. Exploitation/Web Exploitation/Common WebApp Exploitation/Joomla Exploitation.md",
+    "III. Exploitation/Web Exploitation/Common WebApp Exploitation/Drupal Exploitation.md",
+    "III. Exploitation/Web Exploitation/Common WebApp Exploitation/WordPress Exploitation.md",
+    "III. Exploitation/Web Exploitation/Cross-Site Scripting (XSS).md",
+    "III. Exploitation/Web Exploitation/Server Side Includes (SSI).md",
+    "III. Exploitation/Web Exploitation/SSTI.md",
+    "III. Exploitation/Web Exploitation/XLST Injection.md",
+    "III. Exploitation/Web Exploitation/XXE.md",
+    "I. Enumeration/Web Enumeration/Common WebApps/Splunk.md",
+    "II. Pre-Exploitation/Reverse Shells.md",
+    "I. Enumeration/Web Enumeration/Common WebApps/Drupal Enumeration.md",
+    "I. Enumeration/Web Enumeration/Common WebApps/WordPress Enumeration.md",
+    "I. Enumeration/Web Enumeration/Common WebApps/Joomla Enumeration.md",
+    "II. Pre-Exploitation/Web Shells.md",
+    "I. Enumeration/Service Enumeration/Tools/Nmap.md",
+    "VI. Procedures/Linux Privilege Escalation.md",
+    "I. Enumeration/Web Enumeration/Web Server Enumeration.md",
+    "I. Enumeration/Web Enumeration/General Fuzzing/Subdomain & Vhost Fuzzing.md",
+    "I. Enumeration/Web Enumeration/General Fuzzing/Spidering.md",
+    "I. Enumeration/Web Enumeration/General Fuzzing/Parameter & Value Fuzzing.md",
+    "I. Enumeration/Web Enumeration/General Fuzzing/Directory & Page Fuzzing.md",
     "V. Lateral Movement/Test V.md",
-    "IV. Post-Exploitation/Test IV.md",
-    "III. Exploitation/Test III.md",
-    "II. Pre-Exploitation/Test II.md",
-    "V. Lateral Movement",
-    "III. Exploitation",
-    "Test.md",
-    "II. Pre-Exploitation",
-    "IV. Post-Exploitation",
-    "I. Enumeration"
+    "VI. Procedures",
+    "III. Exploitation/Web Exploitation/Untitled",
+    "III. Exploitation/Web Exploitation/Command Injection.md",
+    "I. Enumeration/Web Enumeration/Eyewitness & Aquatone.md",
+    "I. Enumeration/Web Enumeration/General Fuzzing",
+    "III. Exploitation/Web Exploitation/Common WebApp Exploitation",
+    "I. Enumeration/Web Enumeration/Common WebApps",
+    "assets",
+    "III. Exploitation/Web Exploitation",
+    "I. Enumeration/Service Enumeration/Tools",
+    "I. Enumeration/Service Enumeration",
+    "I. Enumeration/Web Enumeration"
   ]
 }
